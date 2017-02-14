@@ -1,0 +1,17 @@
+{
+  "name": "04_02-package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express-server.js",
+  "dependencies": {
+    "express": "^4.14.1",
+    "express-favicon": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}

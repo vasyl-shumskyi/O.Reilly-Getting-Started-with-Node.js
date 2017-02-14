@@ -1,0 +1,21 @@
+{
+  "name": "04_02-package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express-server.js",
+  "dependencies": {
+    "express": "^4.14.1",
+    "express-favicon": "^2.0.0",
+    "moment": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js",
+    "start": "node express-server.js",
+    "other": "node other.js",
+    "custom": "node custom.js",
+    "server": "node server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
